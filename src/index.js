@@ -6,7 +6,12 @@ import './styles.css'
 function App() {
   return (
     <div className="App">
-      <h1>Hello YouTube</h1>
+      <h1>
+        Hello YouTube{' '}
+        <span role="img" aria-label="camera icon">
+          🎥
+        </span>
+      </h1>
       <h2>This is getting deployed!!</h2>
     </div>
   )
