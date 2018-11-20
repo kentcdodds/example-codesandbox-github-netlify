@@ -12,7 +12,7 @@ function App() {
           🎥
         </span>
       </h1>
-      <h2>This has been deployed!!</h2>
+      <h2>This has been deployed!!!</h2>
     </div>
   )
 }
